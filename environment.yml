@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+dependencies:
+  - pyiron_atomistics
+  - phono3py
+  - lammps
